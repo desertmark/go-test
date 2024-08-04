@@ -1,0 +1,1 @@
+INSERT INTO posts (title, body) VALUES ('Hello World', 'This is my first post');
